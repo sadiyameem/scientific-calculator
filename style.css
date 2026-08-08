@@ -50,10 +50,6 @@ body {
     background: lightskyblue;
 }
 
-#eval:hover {
-    box-shadow: black;
-}
-
 #ac {
     background: lightgreen;
     color: black;
@@ -68,6 +64,26 @@ body {
     color: black;
 }
 
-#ce:hover {
-    box-shadow: black;
+#container {
+    background-color: pink;
+    border: 5px solid lightskyblue;
+    height: 275px;
+    width: 750px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#btns {
+    margin: 50px auto;
+    height: 50px;
+    width: 250px;
+    background-color: whitesmoke;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+#output {
+    margin: 25px auto;
+    font-size: 26px;
+    color: black;
 }

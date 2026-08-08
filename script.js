@@ -72,6 +72,11 @@ let quotes = [
     'Calculators are often powered with chemical or battery energy, solar energy or electrical energy.',
     'The first handheld calculator was invented by Texas Instruments, an American company, in 1967, and were further developed in the early 1970s.',
     'Scientific calculators are not just for math; they’re used in physics, engineering, and even finance.',
+    'Every odd number has an “e” in it.',
+    'The word “hundred” comes from the old Norse term, “hundrath”, which actually means 120 and not 100.',
+    'Most mathematical symbols weren’t invented until the 16th century. Before that, equations were written in words.',
+    'Zero is not represented in Roman numerals.',
+    'The symbol for division (i.e.÷) is called an obelus.',
 ];
 
 btns.addEventListener('click', function() {

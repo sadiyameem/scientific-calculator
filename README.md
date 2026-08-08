@@ -1,5 +1,5 @@
 # Scientific Calculator
-This is a simple calculator that can solve basic problems. It also has a fun generator that displays facts about math and calculators.
+This is a simple calculator that can solve basic math problems such as (+, -, *, /) and scientific problems such as (sin, cos, tan, square root and many more). It also has a fun fact generator that displays facts about math and calculators.
 
 # Features
 - Basic operation buttons
